@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    className="card-img-top"
+    src="CaptianPhoto"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Robbie Behm
+    </div>
+    <p
+      className="card-text"
+    >
+      Robbie started his career as a national athlete of the year finalist before succoming to injuries the next week. He then turned his attention to programming.
+    </p>
+    <button
+      className="btn btn-primary"
+      disabled={false}
+      type="button"
+    >
+      Go somewhere
+    </button>
+  </div>
+</div>
+`;
